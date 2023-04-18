@@ -1,0 +1,18 @@
+.btn-content{
+    display: flex;
+    justify-content: center;
+}
+
+.icon-border{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+#g-color{
+    color: white;
+}
